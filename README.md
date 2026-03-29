@@ -8,6 +8,7 @@ This is a web-based quiz game built using HTML, CSS, and JavaScript.
 It presents users with multiple-choice questions and provides instant feedback based on their answers.
 
 🚀 Features
+
 📝 Multiple-choice questions
 ⏱️ Instant answer feedback
 📊 Score tracking
@@ -15,6 +16,7 @@ It presents users with multiple-choice questions and provides instant feedback b
 🔁 Restart quiz option
 
 🛠️ Technologies Used
+
 HTML
 CSS
 JavaScript
