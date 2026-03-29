@@ -20,3 +20,7 @@ It presents users with multiple-choice questions and provides instant feedback b
 HTML
 CSS
 JavaScript
+
+💻Live Demo
+
+https://manaalahmadd.github.io/Quiz-Game/
