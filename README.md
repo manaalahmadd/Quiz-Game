@@ -17,8 +17,8 @@ It presents users with multiple-choice questions and provides instant feedback b
 
 🛠️ Technologies Used
 
-HTML
-CSS
+HTML,
+CSS,
 JavaScript
 
 💻Live Demo
